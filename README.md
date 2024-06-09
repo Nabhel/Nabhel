@@ -1,6 +1,6 @@
 ### Hello there 🙋‍♀️
 
-- 🔭 I’m currently working on [Avantio+igloohome](https://www.igloohome.co/blog/maximize-your-vacation-rentals-potential-with-igloohome-locks-and-avantio) Integration
+- 🔭 I’m currently working on [Avantio+igloohome]([https://www.igloohome.co/blog/maximize-your-vacation-rentals-potential-with-igloohome-locks-and-avantio](https://medium.com/ux-planet/optimizing-vacation-rental-businesses-with-igloohome-locks-and-software-solutions-afa01ed43276)) Integration
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on design projects
 - 🤔 I’m looking for help with finding open source projects
