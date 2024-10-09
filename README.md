@@ -16,3 +16,6 @@ Here are some ideas to get you started:
  <a href="https://adplist.org/widgets/reviews?src=fortune-nabhel-harmony" style="display: block; height: 560px; box-shadow: rgba(142, 151, 158, 0.15) 0px 4px 19px 0px; border-radius: 16px; overflow: hidden; width: 100%; max-width: 650px;">
 View My ADPList Reviews
 </a>
+
+
+[![An image of @nabhel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabhel)](https://holopin.io/@nabhel)
