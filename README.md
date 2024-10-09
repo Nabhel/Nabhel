@@ -2,7 +2,7 @@
 
 ## About me
 
-- I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
+- 👩🏽‍💻 I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
 - 🌱 I’m currently learning about Blockchain and Web3.
 - 👯 I’m looking to collaborate on design projects
 - 🤔 I’m looking for help with finding open source projects
