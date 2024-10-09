@@ -4,7 +4,7 @@
 
 - 👩🏽‍💻 I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
 - 🌱 I’m currently learning about Blockchain and Web3.
-- 👯 I’m looking to collaborate on design projects
+- 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: fortuneharmony90@gmail.com
 
 
