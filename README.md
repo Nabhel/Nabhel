@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning about Blockchain and Web3.
 
 
-
+## My Blog
+- [Understanding Web5: Your Guide to the Decentralized Web](https://dev.to/nabhel/understanding-web5-your-guide-to-the-decentralized-web-49m2) 
 
 ## My Badges
 
