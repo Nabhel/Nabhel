@@ -3,6 +3,7 @@
 - ✍️ I write on [Medium](https://medium.com/@nabhel)
 - 🎥 I teach design on [Youtube](https://www.youtube.com/@Nabhel)
 - 👩🏽‍💻 I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
+- 🎨 I share design resources on [Figma](https://www.figma.com/@harmonyfortune)
 - 👯 I’m looking to collaborate on projects
 - 🌱 I’m currently learning about Blockchain and Web3.
 
