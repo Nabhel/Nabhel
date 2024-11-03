@@ -9,8 +9,10 @@
 
 
 ## My Tech Blog
+- [Job hunting as a UX/UI designer](https://medium.com/design-bootcamp/job-hunting-as-a-ux-ui-designer-7ed1f8168e9b)
 - [My Hacktoberfest Experience Contributing to TBD](https://dev.to/nabhel/my-hacktoberfest-experience-contributing-to-tbd-3i6f)
 - [Understanding Web5: Your Guide to the Decentralized Web](https://dev.to/nabhel/understanding-web5-your-guide-to-the-decentralized-web-49m2)
+
 
 
 ## My Badges
