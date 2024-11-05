@@ -7,6 +7,9 @@
 - 👯 I’m looking to collaborate on projects
 
 
+## Resources
+- [Text Bender](https://www.figma.com/community/plugin/1432714659139308535/text-bender) - Figma Plugin to bend or curve text.
+- [CV Template](https://www.figma.com/community/file/1325426963172673273/resume-template-for-product-designers-ux-ui) - Free resume template for UX/UI designers
 
 ## My Tech Blog
 - [Job hunting as a UX/UI designer](https://medium.com/design-bootcamp/job-hunting-as-a-ux-ui-designer-7ed1f8168e9b)
