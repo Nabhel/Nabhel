@@ -22,11 +22,11 @@
 
 [![An image of @nabhel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabhel)](https://holopin.io/@nabhel)
 
-<!-- 
+
 ## :fire: My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabhel%20&theme=whatsapp-dark2&fire=EB5454)](https://git.io/streak-stats) 
 
--->
+
 
 
