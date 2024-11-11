@@ -11,7 +11,7 @@
 - [CV Template](https://www.figma.com/community/file/1325426963172673273/resume-template-for-product-designers-ux-ui) - Free resume template for UX/UI designers
 
 ## My Tech Blog
-- [YO! I Built My First Figma Plugin](https://medium.com/@nabhel/yo-i-built-my-first-figma-plugin-7872d9141f58)
+- [Yo! I Built My First Figma Plugin](https://medium.com/@nabhel/yo-i-built-my-first-figma-plugin-7872d9141f58)
 - [Job hunting as a UX/UI designer](https://medium.com/design-bootcamp/job-hunting-as-a-ux-ui-designer-7ed1f8168e9b)
 - [My Hacktoberfest Experience Contributing to TBD](https://dev.to/nabhel/my-hacktoberfest-experience-contributing-to-tbd-3i6f)
 - [Understanding Web5: Your Guide to the Decentralized Web](https://dev.to/nabhel/understanding-web5-your-guide-to-the-decentralized-web-49m2)
