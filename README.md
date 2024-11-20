@@ -1,9 +1,11 @@
 ## Hi, I'm Nabhel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 - ✍️ I write on [Medium](https://medium.com/@nabhel)
+- 👩🏽‍💻 Technical writer on [Dev.to](https://dev.to/nabhel)
 - 🎥 I teach design on [Youtube](https://www.youtube.com/@Nabhel)
-- 👩🏽‍💻 I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
+- 👩🏽‍🏫 I mentor designers on [ADPList](https://adplist.org/mentors/fortune-nabhel-harmony)
 - 🎨 I share design resources on [Figma](https://www.figma.com/@harmonyfortune)
+
 
 
 ## Resources
