@@ -12,8 +12,8 @@
 
 ## My Tech Blog
 - [Yo! I Built My First Figma Plugin](https://medium.com/@nabhel/yo-i-built-my-first-figma-plugin-7872d9141f58)
-- [Job hunting as a UX/UI designer](https://medium.com/design-bootcamp/job-hunting-as-a-ux-ui-designer-7ed1f8168e9b)
 - [My Hacktoberfest Experience Contributing to TBD](https://dev.to/nabhel/my-hacktoberfest-experience-contributing-to-tbd-3i6f)
+- [How to Create Custom Plans with “plan.md” in Goose](https://dev.to/nabhel/how-to-create-custom-plans-with-planmd-in-goose-25lk)
 - [Understanding Web5: Your Guide to the Decentralized Web](https://dev.to/nabhel/understanding-web5-your-guide-to-the-decentralized-web-49m2)
 
 
