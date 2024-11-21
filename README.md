@@ -8,7 +8,7 @@
 
 
 
-## Resources
+## Resources I Built
 - [Text Bender](https://www.figma.com/community/plugin/1432714659139308535/text-bender) - Figma Plugin to bend or curve text.
 - [CV Template](https://www.figma.com/community/file/1325426963172673273/resume-template-for-product-designers-ux-ui) - Free resume template for UX/UI designers.
 
@@ -18,7 +18,9 @@
 - [How to Create Custom Plans with “plan.md” in Goose](https://dev.to/nabhel/how-to-create-custom-plans-with-planmd-in-goose-25lk)
 - [Understanding Web5: Your Guide to the Decentralized Web](https://dev.to/nabhel/understanding-web5-your-guide-to-the-decentralized-web-49m2)
 
+## Skills & Tools
 
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,python,nodejs,discord,vscode,figma&theme=light&perline=13)
 
 ## My Badges
 
