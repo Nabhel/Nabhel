@@ -20,7 +20,7 @@
 
 ## Skills & Tools
 
-![My skills and tools](https://skillicons.dev/icons?i=js,html,css,python,nodejs,vscode,figma&theme=light&perline=13)
+![My skills and tools](https://skillicons.dev/icons?i=js,html,css,python,vscode,figma&theme=light&perline=13)
 
 ## My Badges
 
